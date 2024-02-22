@@ -1,0 +1,5 @@
+appId: "com.example.c"
+---
+- launchApp
+- tapOn: "Launch"
+- tapOn: "Launch"
